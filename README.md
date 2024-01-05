@@ -30,5 +30,5 @@ Welcome to the DSA (Data Structures and Algorithms) Using Java repository! This 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/DSA-Using-Java.git
+   git clone [https://github.com/yourusername/DSA-Using-Java.git](https://github.com/mishalturkane/Java-DSA/tree/main)https://github.com/mishalturkane/Java-DSA/tree/main
 
